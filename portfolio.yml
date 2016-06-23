@@ -1,16 +1,10 @@
-name: クック ぱど見
+name: 佐伯 龍治
 resume:
   backgrounds:
-    - name: ◯☓大学大学院 △□研究科 ▼●専攻 N年生
-      lab: XXXX研究室所属
-      thesis_theme: KKKKにおけるAAAAを利用したVVVV効果の検証
+    - name: HAL東京 IT学部 高度情報処理学科 3年生
       year: 2018年3月卒業見込み
-    - name: ◯☓大学 △□学部 N年生
-      lab: XXXX研究室所属
-      thesis_theme: ZZZZにおけるYYYYを利用したQQQQ効果の検証
-      year: 2016年3月卒業
-    - name: XYZ高校
-      year: 2012年3月卒業
+    - name: 日本航空高等学校
+      year: 2014年3月卒業
 social_accounts:
   github: __padomi__
   facebook: https://www.facebook.com/cookpad.jp
